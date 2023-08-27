@@ -1,7 +1,5 @@
-Absolutely, here's the README.md file based on the information you provided:
 
-```markdown
-# Day 10 Class Assignment: Color-Changing Circle with Shape Toggle
+# Color-Changing Circle with Shape Toggle
 
 Welcome to the "Color-Changing Circle with Shape Toggle" project! This is a simple HTML, CSS, and JavaScript project that demonstrates dynamic interactivity on a webpage. The project features a circle that can change color and shape, allowing you to explore the basics of web development and interaction.
 
