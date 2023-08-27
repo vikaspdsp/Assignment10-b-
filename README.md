@@ -7,7 +7,7 @@ Welcome to the "Color-Changing Circle with Shape Toggle" project! This is a simp
 
 ## Hosted Link
 
-You can access the live demo of this project using the following link: https://github.com/vikaspdsp/Assignment10-b-
+You can access project using the following link: https://github.com/vikaspdsp/Assignment10-b-
 
 ## Overview
 
